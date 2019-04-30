@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title> The Title Goes Here </title>
+ </head>
+
+<body>
+<h1> My Commute!</h1>
+<h2> Distance</h2>
+<p> I'm coming to OCC from my house about <strong>10 minutes away</strong>.
+<h2> Time</h2>
+<p> I'm <em>22 years old</em>.
+<hr>
+Written by:<br>
+Connor Sollestre</p>
+ </body>
+ </html>

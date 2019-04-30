@@ -1,0 +1,8 @@
+Type: MC
+
+Title: Error
+1) abcdef ghijklmno pqrstuvwx yabcdefgh ijklmnopq rstuvwxya bcdefghij klmnopqrs tuvwxyabc defghijkl mnopqrstu vwxyabcde fghijklmn opqrstuvw xyabcdefg hijklmnop qrstuvwxy abcdefghi jklmnopqr stuvwxyab cdefghijk lmnopqrst uvwxyabcd efghijklm nopqrstuv wxyabcdef ghijklmno pqrstuvwx yabcdefgh ijklmnopq rstuvwxya bcdefghij klmnopqrs tuvwxyabc defghijkl mnopqrstu vwxyabcde fghijklmn opqrstuvw xyabcdefg hijklmnop qrstuvwxy abcdefghi jklmnopqr stuvwxyab cdefghijk lmnopqrst uvwxyabcd efghijklm nopqrstuv wxyabcdef ghijklmno pqrstuvwx yabcdefgh ijklmnopq rstuvwxya bcdefghij klmnopqrs tuvwxyabc defghijkl mnopqrstu vwxyabcde fghijklmn opqrstuvw xyabcdefg hijklmnop qrstuvwxy abcdefghi jklmnopqr stuvwxyab cdefghijk lmnopqrst uvwxyabcd efghijklm nopqrstuv wxyabcdef ghijklmno pqrstuvwx yabcdefgh ijklmnopq rstuvwxya bcdefghij klmnopqrs tuvwxyabc defghijkl mnopqrstu vwxyabcde fghijklmn opqrstuvw xyabcdefg hijklmnop qrstuvwxy abcdefghi jklmnopqr stuvwxyab cdefghijk lmnopqrst uvwxyabcd efghijklm nopqrstuv012345678901234567890123456789
+
+*a) A
+
+b) B

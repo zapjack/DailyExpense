@@ -1,0 +1,190 @@
+Type: MC
+
+Title: Loops
+1)  [HTML] Give the output of the following Java code:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>int num;<br>num = 5;<br><br>while (num &lt; 10)<br>{<br>   System.out.println(&quot;Start: &quot; + num);<br><br>   if (num % 2 == 0)<br>      System.out.println(&quot;yes&quot;);<br>     <br>   if (num % 3 == 0)<br>      System.out.println(&quot;also&quot;);<br><br>   num++;<br>}<br></font></pre></div>[/HTML]
+
+a) [HTML]<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>yes<br>also<br>Start: 6<br>yes<br>also<br>Start: 7<br>also<br>Start: 8<br>yes<br>Start: 9<br></font></pre></div>[/HTML]
+
+b) [HTML]<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>yes<br>Start: 6<br>also<br>Start: 7<br>Start: 8<br>yes<br>Start: 9<br>also<br></font></pre></div>[/HTML]
+
+*c) [HTML]<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>Start: 6<br>yes<br>also<br>Start: 7<br>Start: 8<br>yes<br>Start: 9<br>also<br></font></pre></div>[/HTML]
+
+d) [HTML]<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>yes<br>also<br>yes<br>also<br></font></pre></div>[/HTML]
+
+Type: MC
+
+Title: Appropriate Use
+2)  [HTML]The Technology Appropriate Use Regulations (TAUR) states that it is a violation to recklessly or maliciously interfere with or damage, in violation of College rules, computer or network resources or computer data, files, or other information.[/HTML]
+
+*a) [HTML]true[/HTML]
+
+b) [HTML]false[/HTML]
+
+Type: MC
+
+Title: Appropriate Use
+3)  [HTML]Violation of the Technology Appropriate Use Regulations (TAUR) could result in your losing access to the OCC computing facilities.[/HTML]
+
+*a) [HTML]true[/HTML]
+
+b) [HTML]false[/HTML]
+
+Type: MC
+
+Title: Contacting the Instructor
+4)  [HTML]My instructor's e-mail address is: aj3@aol.com.[/HTML]
+
+a) [HTML]true[/HTML]
+
+*b) [HTML]false[/HTML]
+
+Type: MC
+
+Title: Contacting the Instructor
+5)  [HTML]I can contact my instructor outside of class by:[/HTML]
+
+a) [HTML]telephone.[/HTML]
+
+b) [HTML]e-mail[/HTML]
+
+c) [HTML]dropping by his office during office hours.[/HTML]
+
+d) [HTML]making an appointment (for a posted office hour time or other times).[/HTML]
+
+*e) [HTML]All of the above.[/HTML]
+
+Type: MC
+
+Title: Contacting the Instructor
+6)  [HTML]My instructor's name is:[/HTML]
+
+a) [HTML]Bill Gates[/HTML]
+
+b) [HTML]Allen Johnson[/HTML]
+
+*c) [HTML]Alan Jackson[/HTML]
+
+d) [HTML]Snoop Dogg[/HTML]
+
+Type: MC
+
+Title: ADA
+7)  [HTML]For issues related to the Americans with Disabilities Act (ADA), please contact OCC's:[/HTML]
+
+a) [HTML]IIC in room K100 (Orchard Ridge campus).[/HTML]
+
+b) [HTML]library in room K200 (Orchard Ridge campus).[/HTML]
+
+*c) [HTML]PASS office in room K111 (Orchard Ridge campus).[/HTML]
+
+Type: MC
+
+Title: Assignments
+8)  [HTML]If you miss a homework because of an illness, or any other reason:[/HTML]
+
+a) [HTML]Your grade will be affected because you got a zero on that assignment.[/HTML]
+
+b) [HTML]Your grade will not be affected because you can turn the assignment in later on.[/HTML]
+
+*c) [HTML]Your grade will not be affected because you can drop two homework assignment scores.[/HTML]
+
+Type: MC
+
+Title: Assignments
+9)  [HTML]You turn in a perfect programming assignment on Friday at 7:00 p.m. (a perfect score for a programming assignment is usually a 100). Your grade on that assignment will be:[/HTML]
+
+*a) [HTML]103[/HTML]
+
+b) [HTML]100[/HTML]
+
+c) [HTML]97[/HTML]
+
+d) [HTML]85[/HTML]
+
+e) [HTML]0[/HTML]
+
+Type: MC
+
+Title: Assignments
+10)  [HTML]You turn in a perfect programming assignment on Monday at 6:14 p.m. Your grade on that assignment will be:[/HTML]
+
+a) [HTML]103[/HTML]
+
+b) [HTML]100[/HTML]
+
+c) [HTML]97[/HTML]
+
+*d) [HTML]85[/HTML]
+
+e) [HTML]0[/HTML]
+
+Type: MC
+
+Title: Assignments
+11)  [HTML]You turn in a perfect programming assignment on Sunday at 9:00 a.m. Your grade on that assignment will be:[/HTML]
+
+a) [HTML]103[/HTML]
+
+*b) [HTML]100[/HTML]
+
+c) [HTML]97[/HTML]
+
+d) [HTML]85[/HTML]
+
+e) [HTML]0[/HTML]
+
+Type: MC
+
+Title: Assignments
+12)  [HTML]You turn in a perfect programming assignment on Monday at 9:00 a.m. Your grade on that assignment will be:[/HTML]
+
+a) [HTML]103[/HTML]
+
+b) [HTML]100[/HTML]
+
+*c) [HTML]97[/HTML]
+
+d) [HTML]85[/HTML]
+
+e) [HTML]0[/HTML]
+
+Type: MC
+
+Title: Assignments
+13)  [HTML]You turn in a perfect programming assignment on Sunday at 1:00 p.m. <i>You have copied the assignment off of another student.</i> Your grade on that assignment will be:[/HTML]
+
+a) [HTML]103[/HTML]
+
+b) [HTML]100[/HTML]
+
+c) [HTML]97[/HTML]
+
+d) [HTML]85[/HTML]
+
+*e) [HTML]0[/HTML]
+
+Type: MC
+
+Title: Exams
+14)  [HTML]All tests will be:[/HTML]
+
+a) [HTML] Open book and open notes.  [/HTML]
+
+b) [HTML] Taken by you, but you can interact with other people during the test.[/HTML]
+
+c) [HTML] Group projects -- feel free to work with your fellow students.  [/HTML]
+
+*d) [HTML] Closed book and closed notes, with no interaction with your fellow students, the book, computer materials, or other people.[/HTML]
+
+Type: MC
+
+Title: Assignments
+15)  [HTML]I realize we're not supposed to copy each other's homework and programs. Can we interact with fellow students outside of class?[/HTML]
+
+a) [HTML] No. All contact is completely forbidden.  [/HTML]
+
+b) [HTML] If someone tries to contact you outside of class, please report them to the instructor immediately.  [/HTML]
+
+*c) [HTML] Of course! You will probably have lots of discussions with fellow students about the course -- your classmates be a big help.  [/HTML]
+
+d) [HTML] Contact is not against the rules, but you probably want to keep your discussions to a minimum.  [/HTML]

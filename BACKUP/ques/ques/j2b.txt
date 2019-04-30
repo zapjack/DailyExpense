@@ -1,0 +1,14 @@
+Type: MC
+Title: [HTML]<b>Loops</b>[/HTML]
+
+1) [HTML]Give the output of the following Java code:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>int num;<br>num = 5;<br><br>while (num &lt; 10)<br>{<br>   System.out.println(&quot;Start: &quot; + num);<br><br>   if (num % 2 == 0)<br>      System.out.println(&quot;yes&quot;);<br>     <br>   if (num % 3 == 0)<br>      System.out.println(&quot;also&quot;);<br><br>   num++;<br>}<br></font></pre></div>[/HTML]
+
+a) [HTML]<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>yes<br>also<br>Start: 6<br>yes<br>also<br>Start: 7<br>also<br>Start: 8<br>yes<br>Start: 9<br></font></pre></div>[/HTML]
+
+*b) <div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>yes<br>Start: 6<br>also<br>Start: 7<br>Start: 8<br>yes<br>Start: 9<br>also<br></font></pre></div>
+
+c) <div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>Start: 6<br>yes<br>also<br>Start: 7<br>Start: 8<br>yes<br>Start: 9<br>also<br></font></pre></div>
+
+d) <div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>Start: 5<br>yes<br>also<br>yes<br>also<br></font></pre></div>
+
+

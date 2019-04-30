@@ -1,0 +1,7 @@
+Johnson 160000 Facebook
+Ramanan 95001 IBM
+Smith 83000 IBM
+Jones 101000 Facebook
+Li 109000 Quicken
+Huang 89234 IBM
+Patel 92500 Facebook

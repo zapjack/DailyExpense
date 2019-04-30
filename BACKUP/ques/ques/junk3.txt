@@ -1,0 +1,917 @@
+Type: MC
+
+Title: Binary Trees
+1)  [HTML]Is the following tree <b>complete?</b><br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img>[/HTML]
+
+a) [HTML]yes[/HTML]
+
+*b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+2)  [HTML]Is the following tree a <b>binary search tree</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+3)  [HTML]Is the following tree a <b>skewed</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img>[/HTML]
+
+a) [HTML]yes[/HTML]
+
+*b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+4)  [HTML]Is the following tree a <b>binary search tree</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst1.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+5)  [HTML]Is the following tree <b>full</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst1.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+6)  [HTML]Is the following tree <b>full</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst2a.gif"></img>[/HTML]
+
+a) [HTML]yes[/HTML]
+
+*b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+7)  [HTML]Is the following tree <b>complete</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst2a.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+8)  [HTML]Is the following tree <b>full</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst6a.gif"></img>[/HTML]
+
+a) [HTML]yes[/HTML]
+
+*b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+9)  [HTML]Is the following tree <b>complete</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst6a.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+10)  [HTML]Is the following tree a <b>binary search tree</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bt4.gif"></img>[/HTML]
+
+a) [HTML]yes[/HTML]
+
+*b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+11)  [HTML]Is the following tree a <b>binary search tree</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst4.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+12)  [HTML]Is the following tree <b>full</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst4.gif"></img>[/HTML]
+
+a) [HTML]yes[/HTML]
+
+*b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+13)  [HTML]Is the following tree <b>complete</b>?<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst4.gif"></img>[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+14)  [HTML]Give the preorder traversal of the following tree:<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img>[/HTML]
+
+a) [HTML]15 6 46 30 200[/HTML]
+
+b) [HTML]6 15 30 46 200[/HTML]
+
+*c) [HTML]15 6 30 46 200[/HTML]
+
+d) [HTML]6 15 46 30 200[/HTML]
+
+e) [HTML]6 15 30 200 46[/HTML]
+
+f) [HTML]200 30 46 15 6[/HTML]
+
+g) [HTML]15 46 30 200 6[/HTML]
+
+h) [HTML]6 30 200 46 15[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+15)  [HTML]Give the postorder traversal of the following tree:<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img>[/HTML]
+
+a) [HTML]15 6 46 30 200[/HTML]
+
+b) [HTML]6 15 30 46 200[/HTML]
+
+c) [HTML]15 6 30 46 200[/HTML]
+
+d) [HTML]6 15 46 30 200[/HTML]
+
+e) [HTML]6 15 30 200 46[/HTML]
+
+f) [HTML]200 30 46 15 6[/HTML]
+
+g) [HTML]15 46 30 200 6[/HTML]
+
+*h) [HTML]6 30 200 46 15[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+16)  [HTML]Give the postorder traversal of the following tree:<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst4.gif"></img>[/HTML]
+
+a) [HTML]3 5 90 91[/HTML]
+
+b) [HTML]90 5 3 91[/HTML]
+
+c) [HTML]3 5 90 91[/HTML]
+
+*d) [HTML]3 5 91 90[/HTML]
+
+e) [HTML]90 3 5 91[/HTML]
+
+f) [HTML]90 5 3 91[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+17)  [HTML]Give the preorder traversal of the following tree:<br></br><img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst4.gif"></img>[/HTML]
+
+a) [HTML]3 5 90 91[/HTML]
+
+b) [HTML]90 5 3 91[/HTML]
+
+c) [HTML]3 5 90 91[/HTML]
+
+d) [HTML]3 5 91 90[/HTML]
+
+e) [HTML]90 3 5 91[/HTML]
+
+*f) [HTML]90 5 3 91[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+18)  [HTML]Insert the following values into a binary search tree, using the simple insert algorithm discussed in class (i.e., perform an unsuccessful search for the value that is to be inserted, then insert it at the spot the search fails):<pre><br>   84, 20, 102, 45, 38, 60, 40 <br></pre>Now that the BST has been populated with the above values, perform a search for the value &quot;40&quot; -- what values in the BST are encountered as your searched for that value?[/HTML]
+
+a) [HTML]20 38 40[/HTML]
+
+b) [HTML]84 20 40[/HTML]
+
+c) [HTML]45 38 40[/HTML]
+
+d) [HTML]84 20 38 40[/HTML]
+
+*e) [HTML]84 20 45 38 40[/HTML]
+
+f) [HTML]40[/HTML]
+
+g) [HTML]38 40[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+19)  [HTML]Insert the following values into a binary search tree, using the simple insert algorithm discussed in class (i.e., perform an unsuccessful search for the value that is to be inserted, then insert it at the spot the search fails):<pre><br>   84, 20, 102, 45, 38, 60, 40 <br></pre>Is the resulting tree full?[/HTML]
+
+*a) [HTML]yes[/HTML]
+
+b) [HTML]no[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+20)  [HTML]If you were going to insert the following values into a BST using the simple insert algorithm discussed in class (i.e., perform an unsuccessful search for the value that is to be inserted, then insert it at the spot the search fails):<pre><br>   20, 38, 40, 45, 60, 84, 102<br></pre>Which value would you insert first if you were trying to create a tree with the best possible shape?[/HTML]
+
+a) [HTML]20[/HTML]
+
+b) [HTML]38[/HTML]
+
+c) [HTML]40[/HTML]
+
+*d) [HTML]45[/HTML]
+
+e) [HTML]60[/HTML]
+
+f) [HTML]84[/HTML]
+
+g) [HTML]102[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+21)  [HTML]Insert the following values into a binary search tree, using the simple insert algorithm discussed in class (i.e., perform an unsuccessful search for the value that is to be inserted, then insert it at the spot the search fails):<pre><br>   20, 38, 40, 45, 60, 84, 102<br></pre>Now that the BST has been populated with the above values, perform a search for the value &quot;40&quot; -- what values in the BST are encountered as your searched for that value?[/HTML]
+
+*a) [HTML]20 38 40[/HTML]
+
+b) [HTML]84 20 40[/HTML]
+
+c) [HTML]45 38 40[/HTML]
+
+d) [HTML]84 20 38 40[/HTML]
+
+e) [HTML]84 20 45 38 40[/HTML]
+
+f) [HTML]40[/HTML]
+
+g) [HTML]38 40[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+22)  [HTML]Given the following tree:<img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst6a.gif"></img><br></br>What is the best possible search time for a value that is found in the tree (serach time is measured as the number of times one value is compared to another value)?[/HTML]
+
+a) [HTML]0[/HTML]
+
+*b) [HTML]1[/HTML]
+
+c) [HTML]2[/HTML]
+
+d) [HTML]3[/HTML]
+
+e) [HTML]4[/HTML]
+
+f) [HTML]5[/HTML]
+
+g) [HTML]6[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+23)  [HTML]Given the following tree:<img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst6a.gif"></img><br></br>What is the worst possible search time for a value that is found in the tree (serach time is measured as the number of times one value is compared to another value)?[/HTML]
+
+a) [HTML]0[/HTML]
+
+b) [HTML]1[/HTML]
+
+c) [HTML]2[/HTML]
+
+*d) [HTML]3[/HTML]
+
+e) [HTML]4[/HTML]
+
+f) [HTML]5[/HTML]
+
+g) [HTML]6[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+24)  [HTML]Given the following tree:<img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img><br></br>What is the worst possible search time to determine that a value is NOT in the tree (serach time is measured as the number of times one value is compared to another value)?[/HTML]
+
+a) [HTML]0[/HTML]
+
+b) [HTML]1[/HTML]
+
+c) [HTML]2[/HTML]
+
+*d) [HTML]3[/HTML]
+
+e) [HTML]4[/HTML]
+
+f) [HTML]5[/HTML]
+
+g) [HTML]6[/HTML]
+
+Type: MC
+
+Title: Binary Trees
+25)  [HTML]Given the following tree:<img alt="Tree" border="0" src="http://cis.oaklandcc.edu/jackson/cis2353/images/bst5b.gif"></img><br></br>What is the best possible search time to determine that a value is NOT in the tree (serach time is measured as the number of times one value is compared to another value)?[/HTML]
+
+a) [HTML]0[/HTML]
+
+b) [HTML]1[/HTML]
+
+*c) [HTML]2[/HTML]
+
+d) [HTML]3[/HTML]
+
+e) [HTML]4[/HTML]
+
+f) [HTML]5[/HTML]
+
+g) [HTML]6[/HTML]
+
+Type: MC
+
+Title: Binary Search Trees
+26)  [HTML]Using the simple &quot;search and insert&quot; algorithm discussed in lecture, insert the following values into a BST:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>  89  2  77  60   9   40   100    92    23<br></font></pre></div>What is the depth of the resulting tree?[/HTML]
+
+a) [HTML]0[/HTML]
+
+b) [HTML]1[/HTML]
+
+c) [HTML]2[/HTML]
+
+d) [HTML]3[/HTML]
+
+e) [HTML]4[/HTML]
+
+f) [HTML]5[/HTML]
+
+g) [HTML]6[/HTML]
+
+*h) [HTML]7[/HTML]
+
+i) [HTML]8[/HTML]
+
+j) [HTML]9[/HTML]
+
+Type: MC
+
+Title: Binary Search Trees
+27)  [HTML]Using the simple &quot;search and insert&quot; algorithm discussed in lecture, insert the following values into a BST:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>  89  2  77  60   9   40   100    92    23<br></font></pre></div>How many comparisons does it take to find the value 9 in this BST?[/HTML]
+
+a) [HTML]0[/HTML]
+
+b) [HTML]1[/HTML]
+
+c) [HTML]2[/HTML]
+
+d) [HTML]3[/HTML]
+
+e) [HTML]4[/HTML]
+
+*f) [HTML]5[/HTML]
+
+g) [HTML]6[/HTML]
+
+h) [HTML]7[/HTML]
+
+i) [HTML]8[/HTML]
+
+j) [HTML]9[/HTML]
+
+Type: MC
+
+Title: Binary Search Trees
+28)  [HTML]If you were going to insert the following values into a BST using the simple &quot;search and insert&quot; algorithm discussed in lecture<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>  89  2  77  60   9   40   100    92    23<br></font></pre></div>Which value is the best one to insert first (if you want a well-shaped tree)?[/HTML]
+
+a) [HTML]89[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]77[/HTML]
+
+*d) [HTML]60[/HTML]
+
+e) [HTML]9[/HTML]
+
+f) [HTML]40[/HTML]
+
+g) [HTML]100[/HTML]
+
+h) [HTML]92[/HTML]
+
+i) [HTML]23[/HTML]
+
+Type: MC
+
+Title: Analysis
+29)  [HTML] If I have 32,000 values to put into a BST, what is the best possible height of the tree?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+*e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+30)  [HTML] If I have 32,000 values to put into a BST, what is the worst possible height of the tree?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+*k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+31)  [HTML] If I have 32,000 values in a singly-linked list, what is the average search time for finding a random value in the list?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+*j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+32)  [HTML] If I have 32,000 values in a singly-linked list, what is the best possible search time for finding a value in the list?[/HTML]
+
+*a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+33)  [HTML] If I have 32,000 values in a singly-linked list, what is the worst possible search time for finding a random value in the list?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+*k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+34)  [HTML] If I have 32,000 values in a well-shaped BST (e.g., it is either complete or full), what is the worst possible search time for finding a value in the tree?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+*e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+35)  [HTML] If I have 32,000 values in an array, and the values are sorted into ascending order, what is the worst possible search time for finding a value in the tree using the binary search method?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+*e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+36)  [HTML] If I have 32,000 values in an array, and the values are sorted into ascending order, what is the worst possible search time for finding a value in the tree using the sequential search method?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]14[/HTML]
+
+e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+*k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+37)  [HTML] If I have 11,591 values stored in a well-shaped BST, what is the worst possible search time for finding a value in the tree?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+*d) [HTML]14[/HTML]
+
+e) [HTML]15[/HTML]
+
+f) [HTML]16[/HTML]
+
+g) [HTML]17[/HTML]
+
+h) [HTML]18[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+38)  [HTML]If I have 7 billion values to store in a BST, what is the best possible height of the resulting tree?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]30[/HTML]
+
+e) [HTML]31[/HTML]
+
+f) [HTML]32[/HTML]
+
+*g) [HTML]33[/HTML]
+
+h) [HTML]34[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Analysis
+39)  [HTML]If I have 7 billion values stored in a well-shaped BST, what is the best possible search time for finding a value in the tree?[/HTML]
+
+*a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+d) [HTML]30[/HTML]
+
+e) [HTML]31[/HTML]
+
+f) [HTML]32[/HTML]
+
+g) [HTML]33[/HTML]
+
+h) [HTML]34[/HTML]
+
+i) [HTML]8000[/HTML]
+
+j) [HTML]16000[/HTML]
+
+k) [HTML]32000[/HTML]
+
+l) [HTML]64000[/HTML]
+
+m) [HTML]128000[/HTML]
+
+Type: MC
+
+Title: Hash Tables
+40)  [HTML]Put these values into a hash table of size seven.  Use the simple increment method of collision resolution (linear probing):<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>50   20    16    15     5       22<br></font></pre></div>Give the contents of the resulting array, starting with index 0:[/HTML]
+
+a) [HTML]50, 20, 16, 15, 5, 22, 0[/HTML]
+
+b) [HTML]0, 50, 20, 16, 15, 5, 22[/HTML]
+
+*c) [HTML]0, 50, 16, 15, 22, 5, 20[/HTML]
+
+d) [HTML]22, 50, 16, 0, 15, 5, 20[/HTML]
+
+Type: MC
+
+Title: Hash Tables
+41)  [HTML]Put these values into a hash table of size seven.  Use the constant increment method of collision resolution, where the constant is three:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>50   20    16    15     5       22<br></font></pre></div>Give the contents of the resulting array, starting with index 0:[/HTML]
+
+a) [HTML]50, 20, 16, 15, 5, 22, 0[/HTML]
+
+b) [HTML]0, 50, 20, 16, 15, 5, 22[/HTML]
+
+c) [HTML]0, 50, 16, 15, 22, 5, 20[/HTML]
+
+*d) [HTML]22, 50, 16, 0, 15, 5, 20[/HTML]
+
+Type: MC
+
+Title: Analysis
+42)  [HTML]Assume that the following sixteen values are in an array:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>3   19   20   25    29   33   40  44   47   49  60  70   100   110  121  150<br></font></pre></div>What values are encountered in a binary search for the value 50?[/HTML]
+
+a) [HTML]3 19 20 25 29 33 40 44 47 49 60[/HTML]
+
+b) [HTML]44 47 49 60[/HTML]
+
+*c) [HTML]44 70 49 60[/HTML]
+
+d) [HTML]40 70 49[/HTML]
+
+e) [HTML]40 100 60[/HTML]
+
+f) [HTML]47 100 60 49[/HTML]
+
+Type: MC
+
+Title: Analysis
+43)  [HTML]Assume that the following sixteen values are in an array:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>3   19   20   25    29   33   40  44   47   49  60  70   100   110  121  150<br></font></pre></div>What values are encountered in a sequential search for the value 50?[/HTML]
+
+*a) [HTML]3 19 20 25 29 33 40 44 47 49 60[/HTML]
+
+b) [HTML]44 47 49 60[/HTML]
+
+c) [HTML]44 70 49 60[/HTML]
+
+d) [HTML]40 70 49 60[/HTML]
+
+e) [HTML]40 100 60[/HTML]
+
+f) [HTML]47 100 60 49[/HTML]
+
+Type: MC
+
+Title: Analysis
+44)  [HTML]Assume that the following sixteen values are in an array:<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>3   19   20   25    29   33   40  44   47   49  60  70   100   110  121  150<br></font></pre></div>What is worst possible search time for looking for a value that is in this array (if you are using the binary search method)?[/HTML]
+
+a) [HTML]1[/HTML]
+
+b) [HTML]2[/HTML]
+
+c) [HTML]3[/HTML]
+
+*d) [HTML]4[/HTML]
+
+e) [HTML]5[/HTML]
+
+f) [HTML]14[/HTML]
+
+g) [HTML]15[/HTML]
+
+h) [HTML]16[/HTML]
+
+Type: MC
+
+Title: Sorting
+45)  [HTML]Given the following array<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>40 53 2 70 25 6<br></font></pre></div>give the contents of the array after one iteration of the bubble sort:[/HTML]
+
+a) [HTML]40 53 2 70 25 6[/HTML]
+
+*b) [HTML]2 40 53 6 70 25[/HTML]
+
+c) [HTML]2 53 40 70 25 6[/HTML]
+
+d) [HTML]2 6 40 53 70 25[/HTML]
+
+Type: MC
+
+Title: Sorting
+46)  [HTML]Given the following array<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>40 53 2 70 25 6<br></font></pre></div>give the contents of the array after one iteration of the selection sort:[/HTML]
+
+a) [HTML]40 53 2 70 25 6[/HTML]
+
+b) [HTML]2 40 53 6 70 25[/HTML]
+
+*c) [HTML]2 53 40 70 25 6[/HTML]
+
+d) [HTML]2 6 40 53 70 25[/HTML]
+
+Type: MC
+
+Title: Sorting
+47)  [HTML]Which sorting algorithm is guaranteed to always be fast for large data sets (i.e., is always O(N log N))?[/HTML]
+
+a) [HTML]Bubble[/HTML]
+
+*b) [HTML]Merge[/HTML]
+
+c) [HTML]Insert[/HTML]
+
+d) [HTML]Selection[/HTML]
+
+e) [HTML]Quick[/HTML]
+
+Type: MC
+
+Title: Sorting
+48)  [HTML]Which sorting algorithm(s) is always O(N squared)?[/HTML]
+
+a) [HTML]Bubble[/HTML]
+
+b) [HTML]Merge[/HTML]
+
+c) [HTML]Insert[/HTML]
+
+d) [HTML]Selection[/HTML]
+
+e) [HTML]Quick[/HTML]
+
+f) [HTML]Bubble and Quick[/HTML]
+
+*g) [HTML]Insert, Select and Bubble[/HTML]
+
+h) [HTML]Select, Merge and Insert[/HTML]
+
+Type: MC
+
+Title: Sorting
+49)  [HTML]Give the contents of the following array<div style="background-color:yellow;"><pre><font face="Courier New" size="+1"><br>50 77 19 65 31 10 25<br></font></pre></div> after one Quicksort partition has been performed on them:[/HTML]
+
+a) [HTML]50 77 19 65 31 10 25[/HTML]
+
+*b) [HTML]31 25 19 10 50 65 77[/HTML]
+
+c) [HTML]10 19 25 31 50 65 77[/HTML]
+
+d) [HTML]50 25 19 10 31 65 77[/HTML]
+
+Type: MC
+
+Title: Sorting
+50)  [HTML]What is the sort time of the heap sort?[/HTML]
+
+a) [HTML]O (N squared)[/HTML]
+
+*b) [HTML]O (N log N)[/HTML]
+
+c) [HTML]Usually O(N log N) but O (N squared) for some data sets.[/HTML]
+
+d) [HTML]Usually O(N squared) but O (N log N) for some data sets.[/HTML]

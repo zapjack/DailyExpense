@@ -1,0 +1,20 @@
+
+	<!DOCTYPE html>
+    <html>
+    <head>
+    <title> James Chuman - Commute </title>
+    </head>
+
+    <body>
+	<h1>My Commute!</h1>
+	<h2>Distance</h2>
+	<p>I typically come to <strong>OCC</strong> from my home, and I have to travel 10 miles to get here.</p>
+	<h2>Time</h2>
+	<p>If there is no traffic, then it takes me 10 minutes, However, on a really bad day, it takes me 30 minutes.</p>
+	<h2>Enjoyment</h2>
+	<p>I enjoy going to the gym, watching <em>movies</em>, and playing video games.</p>
+	<hr />
+	<p>Copyright 2017<br> 
+	James Chuman</p>
+    </body>
+    </html>

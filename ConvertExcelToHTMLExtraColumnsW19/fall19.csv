@@ -1,0 +1,80 @@
+Term,LOC,Section,Short Title,Weeks,Day(s),Meth,
+2019/FA,AH,CIS-1050,Personal Comp Prod Tools,15,M,ONL,
+2019/FA,AH,CIS-1050,Personal Comp Prod Tools,15,M,ONL,
+2019/FA,AH,CIS-1050,Personal Comp Prod Tools,15,M,ONL,
+2019/FA,AH,CIS-1050,Personal Comp Prod Tools,15,M,ONL,
+2019/FA,AH,CIS-1050,Personal Comp Prod Tools,15,W,LEC,Afternoon
+2019/FA,AH,CIS-1060,PC Spreadsheet Concepts,15,M,ONL,
+2019/FA,AH,CIS-1200,Intro to Database Systems,15,MW,LEC,Morning
+2019/FA,AH,CIS-1200,Intro to Database Systems,15,MW,LEC,Afternoon
+2019/FA,AH,CIS-1200,Intro to Database Systems,15,M,LEC,Evening
+2019/FA,AH,CIS-1295,Voice and Data Cabling,15,M,LEC,Evening
+2019/FA,AH,CIS-1300,Networking Concepts,15,M,ONL,
+2019/FA,AH,CIS-1300,Networking Concepts,15,TTh,LEC,Afternoon
+2019/FA,AH,CIS-1300,Networking Concepts,15,T,LEC,Evening
+2019/FA,AH,CIS-1300,Networking Concepts,7,MW,LEC,Afternoon
+2019/FA,AH,CIS-1305,CCNA I: Intro to Networks,7,MW,LEC,Evening
+2019/FA,AH,CIS-1310,CCNA II: Routing/Switching,7,MW,LEC,Evening
+2019/FA,AH,CIS-1500,Intro to Programming (Java),15,W,LEC,Evening
+2019/FA,AH,CIS-1500,Intro to Programming (Java),15,MW,LEC,Morning
+2019/FA,AH,CIS-1500,Intro to Programming (Java),15,M,LEC,Evening
+2019/FA,AH,CIS-1550,Intro to Secure Prog,15,T,LEC,Evening
+2019/FA,AH,CIS-1600,Fundamentals of Cybersecurity,15,W,LEC,Evening
+2019/FA,AH,CIS-1600,Fundamentals of Cybersecurity,15,MW,LEC,Morning
+2019/FA,AH,CIS-1600,Fundamentals of Cybersecurity,7,MW,LEC,Evening
+2019/FA,AH,CIS-1610,Data Security,7,MW,LEC,Evening
+2019/FA,AH,CIS-2111,Systm Analysis & Design (UML),15,M,ONL,
+2019/FA,AH,CIS-2120,Problem Solving & IT,15,M,ONL,
+2019/FA,AH,CIS-2151,Object-Oriented Program (Java),15,W,LEC,Evening
+2019/FA,AH,CIS-2232,Fundamentals of System Support,15,Sa,LEC,Morning
+2019/FA,AH,CIS-2333,Web System Administration,15,M,LEC,Morning
+2019/FA,AH,CIS-2434,Intro to Linux/Unix Admin,15,TTH,LEC,Evening
+2019/FA,AH,CIS-2637,Big Data & NoSQL Systems,15,T,LEC,Evening
+2019/FA,AH,CIS-2656,Visual Basic.NET Programming,15,Th,LEC,Morning
+2019/FA,AH,CIS-2838,System Security,7,TTH,LEC,Evening
+2019/FA,AH,CIS-2980,Computer Svc Tech & Tchnq A+,15,W,LEC,Morning
+2019/FA,HL,CIS-1050,Personal Comp Prod Tools,12,MW,LEC,Afternoon
+2019/FA,HL,CIS-1050,Personal Comp Prod Tools,12,MW,LEC,Morning
+2019/FA,HL,CIS-1050,Personal Comp Prod Tools,15,T,LEC,Evening
+2019/FA,HL,CIS-1050,,15,T,LEC,Afternoon
+2019/FA,HL,CIS-1050,Personal Comp Prod Tools,15,,ONL,
+2019/FA,HL,CIS-1050,Personal Comp Prod Tools,15,,ONL,
+2019/FA,OR,CIS-1050,Personal Comp Prod Tools,12,W,LEC,Morning/Afternoon
+2019/FA,OR,CIS-1050,Personal Comp Prod Tools,15,M,LEC,Morning
+2019/FA,OR,CIS-1090,Web Graphic Concepts,15,M,LEC,Morning
+2019/FA,OR,CIS-1200,Intro to Database Systems,15,T,LEC,Afternoon
+2019/FA,OR,CIS-1200,Intro to Database Systems,15,T,LEC,Evening
+2019/FA,OR,CIS-1200,Intro to Database Systems,15,T,ONL,
+2019/FA,OR,CIS-1300,Networking Concepts,15,W,LEC,Afternoon
+2019/FA,OR,CIS-1300,Networking Concepts,15,M,LEC,Evening
+2019/FA,OR,CIS-1400,Web Design I,15,W,LEC,Afternoon
+2019/FA,OR,CIS-1400,Web Design I,15,M,LEC,Evening
+2019/FA,OR,CIS-1420,HTML5 Programming,15,TTh,LEC,Afternoon
+2019/FA,OR,CIS-1440,JavaScript Program for Web,15,W,LEC,Morning/Afternoon
+2019/FA,OR,CIS-1500,Intro to Programming (Java),15,TTh,LEC,Morning
+2019/FA,OR,CIS-1500,Intro to Programming (Java),15,T,LEC,Evening
+2019/FA,OR,CIS-1500,Intro to Programming (Java),15,Th,HYB,Afternoon
+2019/FA,OR,CIS-1500,,15,MW,LEC,Morning
+2019/FA,OR,CIS-1500,,15,W,LEC,Evening
+2019/FA,OR,CIS-1512,Software Engineering,15,M,LEC,Afternoon
+2019/FA,OR,CIS-1722,Web Animation,15,W,LEC,Evening
+2019/FA,OR,CIS-2151,Object-Oriented Program (Java),15,MW,LEC,Afternoon
+2019/FA,OR,CIS-2232,Fundamentals of System Support,15,M,LEC,Morning
+2019/FA,OR,CIS-2252,Object-Oriented Program (C++),15,W,LEC,Evening
+2019/FA,OR,CIS-2252,Object-Oriented Program (C++),15,M,LEC,Evening
+2019/FA,OR,CIS-2353,Data Structures,15,T,LEC,Evening
+2019/FA,OR,CIS-2454,"Web System Dev (PHP, Java)",15,Th,LEC,Afternoon
+2019/FA,OR,CIS-2818,Mobile App Dev (Android),15,W,LEC,Evening
+2019/FA,OR,CIS-2858,Web Sys Integration & Svc Dev,15,Th,LEC,Evening
+2019/FA,OR,CIS-2862,Game Design,15,Th,LEC,Evening
+2019/FA,RO,CIS-1000,Computer Literacy,7,T,LEC,Morning
+2019/FA,RO,CIS-1000,Computer Literacy,7,T,LEC,Morning
+2019/FA,RO,CIS-1050,Personal Comp Prod Tools,12,Th,LEC,Morning/Afternoon
+2019/FA,RO,CIS-1050,Personal Comp Prod Tools,15,Th,LEC,Evening
+2019/FA,RO,CIS-1050,Personal Comp Prod Tools,15,T,LEC,Morning
+2019/FA,RO,CIS-1050,Personal Comp Prod Tools,15,W,LEC,Morning
+2019/FA,RO,CIS-1050,Personal Comp Prod Tools,15,T,LEC,Evening
+2019/FA,RO,CIS-1050,Personal Comp Prod Tools,15,M,LEC,Afternoon
+2019/FA,RO,CIS-1080,,15,M,LEC,Evening
+2019/FA,SF,CIS-1050,Personal Comp Prod Tools,15,Sa,LEC,Morning
+2019/FA,SF,CIS-1050,Personal Comp Prod Tools,15,Th,LEC,Morning

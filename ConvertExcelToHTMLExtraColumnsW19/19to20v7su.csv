@@ -1,0 +1,58 @@
+Term,Campus,Section,Short Title,Faculty Request,Weeks,Day(s),Meth,
+2020/SU,AH,CIS-1050-A1211,,,12,M,ONL,
+2020/SU,AH,CIS-1050-A1212,,,12,M,ONL,
+2020/SU,AH,CIS-1050-A1213,,,12,M,ONL,
+2020/SU,AH,CIS-1050-A1214,,,12,M,ONL,
+2020/SU,AH,CIS-1200-A1511,Intro to Database Systems,,15,MW,LEC,Morning
+2020/SU,AH,CIS-1200-A1512,Intro to Database Systems,,15,TTh,LEC,Afternoon
+2020/SU,AH,CIS-1300-A1511,Networking Concepts,,15,W,LEC,Afternoon
+2020/SU,AH,CIS-1300-A1512,Networking Concepts,,15,T,LEC,Evening
+2020/SU,AH,CIS-1305-A8119,CCNA I: Intro to Networks,,8,MW,LEC,Evening
+2020/SU,AH,CIS-1310-A8211,CCNA II: Routing/Switching,,8,MW,LEC,Evening
+2020/SU,AH,CIS-1320-A7111,CCNA III: Scaling Networks,,7,TTh,LEC,Evening
+2020/SU,AH,CIS-1330-A7211,CCNA IV: Connecting Networks,,7,TTh,LEC,Evening
+2020/SU,AH,CIS-1500-A8111,Intro to Programming (Java),,8,MW,LEC,Afternoon
+2020/SU,AH,CIS-1600-A1511,,,15,T,LEC,Evening
+2020/SU,AH,CIS-1630-A1511,,,15,T,LEC,Evening
+2020/SU,AH,CIS-2111-A1511,Systm Analysis & Design (UML),,15,MW,LEC,Morning
+2020/SU,AH,CIS-2212-A1511,,,15,M,ONL,
+2020/SU,AH,CIS-2232-A8111,Fundamentals of System Support,,8,TTh,LEC,Evening
+2020/SU,AH,CIS-2333-A7211,Web System Administration,,7,TTh,LEC,Morning
+2020/SU,AH,CIS-2434-A1511,Intro to Linux/Unix Admin,,15,Th,LEC,Evening
+2020/SU,AH,CIS-2535-A1511,Windows Server Administration,,15,M,LEC,Morning
+2020/SU,AH,CIS-2616-A1511,,,15,W,LEC,Evening
+2020/SU,AH,CIS-2636-A1511,Network Administration,,15,M,LEC,Evening
+2020/SU,AH,CIS-2636-A8111,Network Administration,,8,TTh,LEC,Morning
+2020/SU,AH,CIS-2845-A1511,,,15,W,LEC,Evening
+2020/SU,AH,CIS-2980-A1511,Computer Svc Tech & Tchnq A+,,15,T,LEC,Evening
+2020/SU,HL,CIS-1050-H1221,Personal Comp Prod Tools,,12,,ONL,
+2020/SU,HL,CIS-1050-H1222,Personal Comp Prod Tools,,12,,ONL,
+2020/SU,HL,CIS-1050-H1521,Personal Comp Prod Tools,,15,M,LEC,Evening
+2020/SU,HL,CIS-1050-H7122,Personal Comp Prod Tools,,7,MW,LEC,Morning
+2020/SU,HL,CIS-1050-H7212,Personal Comp Prod Tools,,7,MW,LEC,Morning
+2020/SU,OR,CIS-1200-O1531,Intro to Database Systems,,15,T,LEC,Evening
+2020/SU,OR,CIS-1300-O1531,Networking Concepts,,15,MW,LEC,Morning
+2020/SU,OR,CIS-1400-O1531,Web Design I,,15,MW,LEC,Morning
+2020/SU,OR,CIS-1400-O1532,Web Design I,,15,T,LEC,Evening
+2020/SU,OR,CIS-1420-O1531,HTML5 Programming,,15,MW,LEC,Morning
+2020/SU,OR,CIS-1440-O1531,JavaScript Program for Web,,15,MW,LEC,Morning
+2020/SU,OR,CIS-1500-O1531,Intro to Programming (Java),,15,M,LEC,Evening
+2020/SU,OR,CIS-1500-O1532,Intro to Programming (Java),,15,Th,LEC,Evening
+2020/SU,OR,CIS-1721-O1531,Web Design II,,15,TTh,LEC,Morning
+2020/SU,OR,CIS-2111-O1531,Systm Analysis & Design (UML),,15,MW,LEC,Afternoon
+2020/SU,OR,CIS-2151-O1531,Object-Oriented Program (Java),,15,Th,LEC,Evening
+2020/SU,OR,CIS-2212-O1531,Project Management,,15,W,LEC,Evening
+2020/SU,OR,CIS-2252-O1531,Object-Oriented Program (C++),,15,T,LEC,Evening
+2020/SU,OR,CIS-2252-O1532,Object-Oriented Program (C++),,15,W,LEC,Evening
+2020/SU,OR,CIS-2353-O1531,Data Structures,,15,W,LEC,Evening
+2020/SU,OR,CIS-2454-O1531,"Web System Dev (PHP, Java)",,15,Th,LEC,Evening
+2020/SU,OR,CIS-2616-O1531,DB Appl Des/Dev Oracle PL/SQL,,15,Th,LEC,Afternoon
+2020/SU,OR,CIS-2637-O1531,,24,15,W,LEC,Evening
+2020/SU,RO,CIS-1000-R7141,Computer Literacy,,7,Th,LEC,Afternoon
+2020/SU,RO,CIS-1000-R7241,Computer Literacy,,7,Th,LEC,Afternoon
+2020/SU,RO,CIS-1050-R1540,Personal Comp Prod Tools,,15,M,LEC,Morning/Afternoon
+2020/SU,RO,CIS-1050-R1542,Personal Comp Prod Tools,,15,T,LEC,Evening
+2020/SU,RO,CIS-1050-R1544,Personal Comp Prod Tools,,15,W,LEC,Afternoon
+2020/SU,SF,CIS-1050-S1401,Personal Comp Prod Tools,,14,Sa,LEC,Morning
+2020/SU,SF,CIS-1050-S7102,Personal Comp Prod Tools,,7,TTh,LEC,Morning
+2020/SU,SF,ECO-2620-S8102,Economics I,,8,MW,LEC,

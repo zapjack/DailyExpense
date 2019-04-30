@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<questions general="java" category="variables" title="idTypes">
+
+<question points="2" type="mc">
+<title>Identify Type</title>
+<desc>Identify the type of the following expression:
+<pre>
+   29.35f
+</pre>
+</desc>
+<answers>
+<ans>int</ans>
+<ans status="correct">float</ans>
+<ans>double</ans>
+<ans>boolean</ans>
+<ans>char</ans>
+<ans>String</ans>
+</answers>
+</question>
+
+<question points="2" type="mc">
+<title>Identify Type</title>
+<desc>Identify the type of the following expression:
+<pre>
+   2.6
+</pre>
+</desc>
+<answers>
+<ans>int</ans>
+<ans>float</ans>
+<ans status="correct">double</ans>
+<ans>boolean</ans>
+<ans>char</ans>
+<ans>String</ans>
+</answers>
+</question>
+
+<question points="2" type="mc">
+<title>Identify Type</title>
+<desc>Identify the type of the following expression:
+<pre>
+356
+</pre>
+</desc>
+<answers>
+<ans status="correct">int</ans>
+<ans>float</ans>
+<ans>double</ans>
+<ans>boolean</ans>
+<ans>char</ans>
+<ans>String</ans>
+</answers>
+</question>
+
+<question points="2" type="mc">
+<title>Identify Type</title>
+<desc>Identify the type of the following expression:
+<pre>
+(int) 2.95
+</pre>
+</desc>
+<answers>
+<ans status="correct">int</ans>
+<ans>float</ans>
+<ans>double</ans>
+<ans>boolean</ans>
+<ans>char</ans>
+<ans>String</ans>
+</answers>
+</question>
+
+
+</questions>
