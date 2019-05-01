@@ -177,40 +177,6 @@ public class DailyExpenseActivity extends Activity {
                     result = e.toString();
                 }
             }
-            else if (action.equals("query")) {
-                try {
-                    URL url = new URL(urlBasic);
-                    HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
-                    httpURLConnection.setRequestMethod("POST");
-                    httpURLConnection.setDoInput(true);
-                    httpURLConnection.setDoOutput(true);
-                    OutputStream outputStream = httpURLConnection.getOutputStream();
-                    BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(outputStream, "UTF-8"));
-                    String urlData = URLEncoder.encode("want", "UTF-8") + "=" + URLEncoder.encode("UTF-8");
-                    bufferedWriter.write(urlData);
-                    bufferedWriter.flush();
-                    bufferedWriter.close();
-                    outputStream.close();
-
-                    InputStream inputStream = httpURLConnection.getInputStream();
-                    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream, "iso-8859-1"));
-
-                    String line;
-
-                    while ((line = bufferedReader.readLine()) != null) {
-                        result += line;
-                    }
-                    bufferedReader.close();
-                    inputStream.close();
-                    httpURLConnection.disconnect();
-                    return result;
-
-                } catch (MalformedURLException e) {
-                    result = e.toString();
-                } catch (IOException e) {
-                    result = e.toString();
-                }
-            }
             return result;
         }
 
