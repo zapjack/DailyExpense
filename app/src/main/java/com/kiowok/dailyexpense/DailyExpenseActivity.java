@@ -224,9 +224,6 @@ public class DailyExpenseActivity extends Activity {
             diningTotal.setText(
                     String.format("%.2f", Double.parseDouble(totals[1]))
             );
-
-            // alertDialog.setMessage(result);
-            // alertDialog.show();
         }
 
         @Override
@@ -244,3 +241,72 @@ public class DailyExpenseActivity extends Activity {
         return month[index] + " " + tokens[0];
     }
 }
+
+/*
+At kiowok.com/trc/conn.php:
+
+<?php
+$db_name = "alan_trc";
+$mysql_username = "alan_trc";
+$mysql_password = "oneONE2";
+$server_name = "kiowok.com";
+$conn=mysqli_connect(localhost, $mysql_username, $mysql_password, $db_name);
+?>
+
+
+At kiowok.com/trc/basic.php:
+
+<?php
+require "conn.php";
+
+$action = $_POST["action"];
+$date = $_POST["date"];
+$cat = $_POST["category"];
+$amount = $_POST["amount"];
+$yearMonth = substr($date, 0, 7);
+
+if ($action == "add") {
+    $mysql_qry = "insert into expenses (date, category, amount) values ('$date', '$cat', $amount);";
+    $result = mysqli_query($conn ,$mysql_qry);
+
+    $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'groceries';";
+    $result = mysqli_query($conn ,$mysql_qry);
+    $row = $result->fetch_assoc();
+    $sum = $row['sum'];
+
+    $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'dining';";
+    $result = mysqli_query($conn ,$mysql_qry);
+    $row = $result->fetch_assoc();
+    $sum = $sum . "#" . $row['sum'];
+
+    echo $sum;
+}
+else if ($action == "getTotals") {
+    $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'groceries';";
+    $result = mysqli_query($conn ,$mysql_qry);
+    $row = $result->fetch_assoc();
+    $sum = $row['sum'];
+
+    $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'dining';";
+    $result = mysqli_query($conn ,$mysql_qry);
+    $row = $result->fetch_assoc();
+    $sum = $sum . "#" . $row['sum'];
+
+    echo $sum;
+}
+else if ($action == "all") {
+    echo "top of all...";
+    $mysql_qry = "select * from expenses;";
+    $result = mysqli_query($conn ,$mysql_qry);
+    echo "RESULT: " + $result;
+    if (mysqli_num_rows($result) > 0) {
+        while($row = $result->fetch_assoc()) {
+            echo "id: " . $row["id"]. " - category: " . $row["category"]. " - amount: " . $row["amount"]. "<br>";
+        }
+    }
+    else {
+        echo "Not successful...";
+    }
+}
+?>
+ */
