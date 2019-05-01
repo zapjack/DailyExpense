@@ -49,6 +49,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:text="Total:"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/groceryTitle" />
 
@@ -59,6 +60,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:text="?"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
         app:layout_constraintStart_toEndOf="@+id/textView5"
         app:layout_constraintTop_toBottomOf="@+id/groceryTitle" />
 
@@ -106,6 +108,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:text="Total:"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
@@ -127,6 +130,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:text="?"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
         app:layout_constraintStart_toEndOf="@+id/textView8"
         app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
