@@ -238,12 +238,27 @@ if ($action == "add") {
     $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'groceries';";
     $result = mysqli_query($conn ,$mysql_qry);
     $row = $result->fetch_assoc();
-    $sum = $row['sum'];
+
+    if (empty($row['sum'])) {
+        $sum = 0;
+    }
+    else {
+        $sum = $row['sum'];
+    }
 
     $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'dining';";
     $result = mysqli_query($conn ,$mysql_qry);
     $row = $result->fetch_assoc();
-    $sum = $sum . "#" . $row['sum'];
+
+    $sumDining = 0;
+    if (empty($row['sum'])) {
+        $sumDining = 0;
+    }
+    else {
+        $sumDining = $row['sum'];
+    }
+
+    $sum = $sum . "#" . $sumDining;
 
     echo $sum;
 }
@@ -251,28 +266,31 @@ else if ($action == "getTotals") {
     $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'groceries';";
     $result = mysqli_query($conn ,$mysql_qry);
     $row = $result->fetch_assoc();
-    $sum = $row['sum'];
+
+    if (empty($row['sum'])) {
+        $sum = 0;
+    }
+    else {
+        $sum = $row['sum'];
+    }
 
     $mysql_qry = "SELECT SUM(amount) AS sum FROM expenses WHERE date LIKE '$yearMonth%' AND category = 'dining';";
     $result = mysqli_query($conn ,$mysql_qry);
     $row = $result->fetch_assoc();
-    $sum = $sum . "#" . $row['sum'];
+
+    $sumDining = 0;
+    if (empty($row['sum'])) {
+        $sumDining = 0;
+    }
+    else {
+        $sumDining = $row['sum'];
+    }
+
+    $sum = $sum . "#" . $sumDining;
 
     echo $sum;
 }
-else if ($action == "all") {
-    echo "top of all...";
-    $mysql_qry = "select * from expenses;";
-    $result = mysqli_query($conn ,$mysql_qry);
-    echo "RESULT: " + $result;
-    if (mysqli_num_rows($result) > 0) {
-        while($row = $result->fetch_assoc()) {
-            echo "id: " . $row["id"]. " - category: " . $row["category"]. " - amount: " . $row["amount"]. "<br>";
-        }
-    }
-    else {
-        echo "Not successful...";
-    }
-}
+
+
 ?>
  */
